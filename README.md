@@ -13,3 +13,4 @@ npm install
 npm run dev
 ```
 
+![alt text](https://github.com/ayoub-abdessadak/ai-assistant/blob/main/conversation.png?raw=true)
