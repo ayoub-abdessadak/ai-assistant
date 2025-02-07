@@ -13,4 +13,8 @@ npm install
 npm run dev
 ```
 
+## Demo
 ![alt text](https://github.com/ayoub-abdessadak/ai-assistant/blob/main/conversation.png?raw=true)
+
+![alt text](https://github.com/ayoub-abdessadak/ai-assistant/blob/main/conversation-2.png?raw=true)
+
