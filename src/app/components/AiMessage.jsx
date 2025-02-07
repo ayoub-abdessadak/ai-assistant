@@ -1,4 +1,5 @@
-import React from "react"
+import React from "react";
+import Markdown from 'react-markdown';
 
 const AiMessage = ({message}) => {
     return(
@@ -9,7 +10,7 @@ const AiMessage = ({message}) => {
             :
             <>
             <span className="side-chat">Assistant:</span>
-            <span className="ai-content">{message}</span>
+            <span className="ai-content"><Markdown>{message}</Markdown></span>
             </>
           }
         </div>
